@@ -2,7 +2,7 @@
 Jarvis is an intelligent, interactive, voice-based AI desktop assistant that boosts your productivity by integrating real-time automation, smart scheduling, and conversational abilities — all via voice commands.
 
 🚀 Live Demo
-This is a local desktop-based assistant; no hosted version currently available.
+This is a local desktop-based assistant: Working on it
 
 🧠 What Jarvis Can Do
 📅 Manage Calendar: Check upcoming events, create and edit Google Calendar events with voice.
